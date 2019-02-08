@@ -66,7 +66,7 @@ Image forgery detection library.
 | ![dogs_original](https://user-images.githubusercontent.com/883386/39047347-3fee70cc-44a2-11e8-8729-c4312c631017.jpg) | ![dogs_forged](https://user-images.githubusercontent.com/883386/39047218-c1c8c530-44a1-11e8-8eb6-f9a8470848bd.jpg) | ![dogs_result](https://user-images.githubusercontent.com/883386/39047481-aec6f0f0-44a2-11e8-9f0f-041b9f2a0eb4.png) |
 
 ### Notice
-The library sometimes produce false positive detection, depending on the image content. For this reason i advice to adjust the settings. Also sometimes the human judgement is required, but in the most cases the library do a pretty good job in detecting forged images. The more intensive the overlayed color is, the more certain is that the image is tampered.
+The library sometimes produces false positive detection, depending on the image content. For this reason we advize that you adjust the settings. Sometimes human judgement is required, but in most cases the library does a pretty good job of detecting forged images. The more intensive the overlayed color is, the more certain it is that the image has been tampered with.
 
 ## License
 
